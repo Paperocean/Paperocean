@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on C++ projects
+- 🌱 I’m currently learning about data structures
+- ⚡ Fun fact: Stop me if you can, someday I will reach my goals
+
 <!--
 **Paperocean/Paperocean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
