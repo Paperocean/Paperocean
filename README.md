@@ -8,7 +8,6 @@ Welcome to my GitHub profile! Here's a little about me:
 - 🤔 **Seeking Help With:** Advanced algorithms and optimization techniques.
 - 💬 **Ask Me About:** C++, data structures, or my latest project ideas!
 - 📫 **Reach Me:** You can find me on https://paperocean.github.io/site-portfolio/.
-- 😄 **Pronouns:** He/Him / She/Her / They/Them
 - ⚡ **Fun Fact:** Stop me if you can, someday I will reach my goals! 🌟
 
 ---
