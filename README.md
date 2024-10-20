@@ -17,8 +17,8 @@ Welcome to my GitHub profile! Here's a little about me:
 Feel free to explore my projects below!
 
 1. **Dining philosophers**
-2. **Library**
-3. **Sorting Algorithms**
+2. **Przetwarzanie obrazu**
+3. **Sorting algorithms**
 
 ---
 
