@@ -12,15 +12,4 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ---
 
-## 🌟 Projects Showcase
-
-Feel free to explore my projects below!
-
-1. **Dining philosophers**
-2. **Przetwarzanie obrazu**
-3. **Sorting algorithms**
-4. **Tic Tac Toe**
-
----
-
 Thanks for visiting my profile! Let's connect and make awesome things happen! 🚀
